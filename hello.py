@@ -1,1 +1,1 @@
-print("Hello from Jenkins CI - updated")
+print("Hello from Jenkins CI - update")
